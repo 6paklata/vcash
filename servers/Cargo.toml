@@ -10,7 +10,7 @@ workspace = ".."
 edition = "2018"
 
 [dependencies]
-hyper = "0.12"
+hyper = "0.14"
 hyper-rustls = "0.14"
 failure = "0.1"
 failure_derive = "0.1"
